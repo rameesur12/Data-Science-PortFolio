@@ -4,7 +4,7 @@
 
 The full notebook for this project can be opened in Google Colab once it is uploaded to GitHub.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](PASTE_YOUR_COLAB_NOTEBOOK_LINK_HERE)
+https://github.com/rameesur12/Data-Science-PortFolio/blob/main/AirBnb%20Sentiment%20Analysis/Main.ipynb
 
 > Replace the placeholder link above with your actual Colab/GitHub notebook link after uploading `Main.ipynb` to your project folder.
 
