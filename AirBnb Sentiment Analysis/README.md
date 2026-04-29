@@ -58,6 +58,31 @@ This makes the project useful for demonstrating practical skills in **data clean
 | **Visualisation** | To present trends using scatter plots, heatmaps, and bar charts. |
 
 ---
+## 📦 Dataset Access
+
+The original Airbnb London datasets used in this project are too large to upload directly to GitHub. Instead, the full datasets can be downloaded from Inside Airbnb using the links below:
+
+- **Listings dataset:** [Download listings.csv.gz](https://data.insideairbnb.com/united-kingdom/england/london/2024-09-06/data/listings.csv.gz)
+- **Reviews dataset:** [Download reviews.csv.gz](https://data.insideairbnb.com/united-kingdom/england/london/2024-09-06/data/reviews.csv.gz)
+
+### Key Fields Used
+
+The main fields used in this project were:
+
+- **`listings.csv`**
+  - `id`
+  - `neighbourhood`
+  - `latitude`
+  - `longitude`
+  - `reviews_per_month`
+
+- **`reviews.csv`**
+  - `listing_id`
+  - `date`
+  - `comments`
+
+Due to GitHub file size limitations, the full datasets are not included in this repository. The notebook can be run by downloading the datasets from the links above and placing them in the project data folder.
+
 
 ## 🗂️ Dataset Overview
 
