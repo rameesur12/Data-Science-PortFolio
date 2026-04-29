@@ -13,6 +13,12 @@ This repository is the GitHub portfolio version of my MSc Data Science dissertat
 The full dissertation report is included in the project folder as supporting documentation. The README gives a clear project summary, methodology, techniques used, hypotheses, model results, findings and folder guide.
 
 ---
+## 🔗 Full Code and Results
+
+The complete notebook, including data preprocessing, exploratory data analysis, hypothesis testing, model training, evaluation metrics, and visual outputs, is available here:
+
+[Open in Google Colab]
+https://colab.research.google.com/drive/1znLXIi6CMnMk_Uu-z6iZUISnyBzw0Vgw?usp=sharing
 
 ## 🎯 Project Aim
 
