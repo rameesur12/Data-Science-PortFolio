@@ -17,8 +17,7 @@ The full dissertation report is included in the project folder as supporting doc
 
 The complete notebook, including data preprocessing, exploratory data analysis, hypothesis testing, model training, evaluation metrics, and visual outputs, is available here:
 
-[Open in Google Colab]
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/drive/1znLXIi6CMnMk_Uu-z6iZUISnyBzw0Vgw?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1znLXIi6CMnMk_Uu-z6iZUISnyBzw0Vgw?usp=sharing)
 
 ## 🎯 Project Aim
 
