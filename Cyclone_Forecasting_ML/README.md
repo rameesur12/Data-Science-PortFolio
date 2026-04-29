@@ -19,6 +19,10 @@ The complete notebook, including data preprocessing, exploratory data analysis, 
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1znLXIi6CMnMk_Uu-z6iZUISnyBzw0Vgw?usp=sharing)
 
+or 
+
+Use : (https://colab.research.google.com/drive/1znLXIi6CMnMk_Uu-z6iZUISnyBzw0Vgw?usp=sharing)
+
 ## 🎯 Project Aim
 
 The aim of this project was to evaluate how effectively machine learning and deep learning models can predict and explain tropical cyclone intensity using structured meteorological data.
