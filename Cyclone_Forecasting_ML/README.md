@@ -86,7 +86,7 @@ The GitHub project files are organised around the **2019-2020 modelling workflow
 
 ## 🗂️ Recommended Repository Structure
 
-The repository should be kept simple for recruiters and interviewers. The main GitHub page should contain only the README, the main Python script and the project files folder.
+The main GitHub page should contain only the README, the main Python script and the project files folder.
 
 ```text
 cyclone-forecasting-ml/
@@ -611,11 +611,6 @@ Depending on the script or notebook section being run, the project can produce:
 
 ---
 
-## 💬 Simple Interview Explanation
-
-I built a machine learning project to predict tropical cyclone intensity using storm-track data and environmental variables. I cleaned and merged cyclone data with ERA5 weather data, engineered features such as storm duration and wind magnitude, tested three meteorological hypotheses, and compared classical machine learning models with deep learning models. LightGBM performed best, with an R² of 0.925, showing that tree-based boosting models worked better than LSTM and TCN for this structured tabular dataset. The strongest predictor was minimum central pressure, which was strongly linked to maximum wind speed.
-
----
 
 ## 🧠 Main Skills Demonstrated
 
