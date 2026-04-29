@@ -72,7 +72,7 @@ Main.ipynb
 If the notebook is uploaded to GitHub, you can add a Google Colab badge here:
 
 ```markdown
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](PASTE_YOUR_COLAB_LINK_HERE)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rameesur12/Data-Science-Project-Main/blob/main/BLEVEs.ipynb)
 ```
 
 ---
